@@ -1,0 +1,5 @@
+.testBlock{
+    display: inline-block;
+    border: 1px dashed aqua;
+    cursor: pointer;
+}
